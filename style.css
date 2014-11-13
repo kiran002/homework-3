@@ -1,0 +1,57 @@
+#work_queues_chart div {
+    font-size:14px;
+    font-family: sans-serif;
+    color: white;
+    background-color: steelblue;
+    text-align: right;
+    padding: 0.5em;
+    margin: 0.2em;	
+text-wrap:normal;
+}
+
+.block {
+	width:15px;
+	height:15px;
+	display:block;
+	float:left;
+}
+
+.green_block {
+	background-color:green;
+}
+
+.red_block {
+	background-color:red;
+}
+
+
+body {
+	text-shadow: #fff 0px 1px 1px; 
+font-family:cursive;
+}
+
+ul li {
+	list-style:none;
+	width:300px;
+}
+
+li#heading {
+	font-size:22px;
+	text-align:center;
+}
+
+#legend {
+	float:right;
+}
+
+h2 {
+text-align:center;
+font-size:17px;
+	font-family:cursive;
+}
+
+
+.blocktext {
+ font-style:italic;
+	font-size: 12px;
+}
